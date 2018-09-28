@@ -1,0 +1,16 @@
+{
+	"name": "mr-console",
+	"description": "A console logger allows to personalize color for many people who contribute on the same project. Every single member could choose his particular color to identify his logging information quickly and easily.",
+	"version": "1.0.1",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/huyvnn/mr-console.git"
+	},
+	"keywords": ["smart", "console", "smart-console", "color-console", "ex-console", "pretty-console", "mr-console"],
+	"author": "Huy Nguyen <huyvnn@yahoo.com>",
+	"license": "MIT"
+}
